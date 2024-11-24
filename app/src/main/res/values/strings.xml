@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CourseApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="type_your_answer_here">Type your answer here</string>
+    <string name="scores">Scores</string>
+    <string name="default_web_client_id">551846183355-jlovuc7hhkkb2oqvkomrrv5721j8p5of.apps.googleusercontent.com</string>
+</resources>
